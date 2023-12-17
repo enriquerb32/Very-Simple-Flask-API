@@ -2,7 +2,7 @@
 
 Change directory to the project folder
 
->> docker build -t very-simple-api-flask .
+>> docker build -t very-simple-flask-api .
 
 >> docker run -d -p 5000:5000 very-simple-flask-api
 
